@@ -1,6 +1,6 @@
 # cf-monitor - Cloudflare Zone Monitoring
 
-Aminimal docker-compose configuration to establish a Cloudflare observability solution. It consists of; 
+A minimal docker-compose configuration to establish a Cloudflare observability solution. It consists of; 
 
 - cloudflare-exporter - https://github.com/lablabs/cloudflare-exporter
 - prometheus - https://hub.docker.com/r/prom/prometheus
